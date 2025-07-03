@@ -1,5 +1,6 @@
 # Email-spam-classifier
 💌 Email Spam Classifier 🧠
+
 📌 Overview
 This project is a machine learning-based email spam classifier built using Python. It aims to automatically detect whether a given email is spam or not spam (ham) based on its textual content.
 
@@ -12,7 +13,7 @@ Implemented models like:
 
 Multinomial Naive Bayes
 
-(Optional) Logistic Regression / SVM if used
+Logistic Regression
 
 Achieved high accuracy and performance on test data
 
@@ -25,7 +26,7 @@ Scikit-learn
 
 Pandas, Numpy
 
-Matplotlib / Seaborn (if used)
+Matplotlib 
 
 Natural Language Processing (NLP)
 
